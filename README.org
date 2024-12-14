@@ -21,7 +21,7 @@ There’s more to come, eventually. I’ve got a few ideas, like:
 
 But for now, I’ll keep it simple. No need to overcomplicate things.
 
-* Why Did It Take Over a Year?
+* Why did this take so long?
 
 Alright, I’ll admit it. It took me over a year to upload this portion of my dotfiles. Sometimes I get distracted. But hey, I’m here now.
 
