@@ -1,18 +1,18 @@
-#+TITLE: Dotfiles for i3 Environment on Arch Linux
+#+TITLE: Dotfiles for i3 on Arch Linux
 
-Welcome to my dotfiles repository!
+Welcome to some random dotfiles repo!
 
 This is where I keep the configuration files for my i3 setup on an Arch Linux-based system. It’s taken me a bit longer than expected to get this uploaded... okay, over a year. Sometimes life gets in the way, and, well, I get distracted. Happens to the best of us, right?
 
 The goal with this setup is simple: I want it to be functional, easy on the eyes, and efficient. The plan is to start small but make it better over time.
 
-## What’s in Here Now?
+* What’s in Here Now?
 
 - **i3 configuration**: I use i3 because it’s fast, minimal, and gets out of the way. Just the way I like it.
 - **Babashka**: Lightweight Clojure, because sometimes you don’t need a JVM to get things done. I’ve got a little script in here to manage my i3 configs using Babashka.
 - **Clojure**: I love working in Clojure, and it’s in my workflow. Expect some configuration for Clojure development down the line.
 
-## What’s Next?
+* What’s Next?
 
 There’s more to come, eventually. I’ve got a few ideas, like:
 
@@ -21,18 +21,18 @@ There’s more to come, eventually. I’ve got a few ideas, like:
 
 But for now, I’ll keep it simple. No need to overcomplicate things.
 
-## Why Did It Take Over a Year?
+* Why Did It Take Over a Year?
 
 Alright, I’ll admit it. It took me over a year to upload this portion of my dotfiles. Sometimes I get distracted. But hey, I’m here now.
 
-## The Plan
+* The Plan
 
 1. **Keep the i3 setup solid**: I’m all about simplicity and efficiency.
 2. **Add Emacs configuration**: Because Emacs is life (well, almost).
 3. **Play with Clojure, Babashka, and NBB**: They make me happy, and I think they could make your setup a bit more interesting too.
 4. **Keep things fun**: The whole point is to enjoy what you’re doing. If this setup can make life a little easier and more fun, then great!
 
-## A Final Note
+* A Final Note
 
 Things might get a little weird here, but it’s all part of the process. It’s a journey, and I’m just sharing a portion of it. I’m not trying to reinvent the wheel—just trying to make things a little smoother.
 
